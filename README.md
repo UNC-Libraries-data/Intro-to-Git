@@ -34,11 +34,11 @@ _Sets your email address in Git; should be same as GitHub email address so GitHu
 
 _Turns any folder into a Git repository_
 
-`$ git clone https://github.com/username/repo-name.git`
+`$ git clone https://github.com/`_username_`/`_repo-name_`.git`
 
 _Copies an existing repository to your computer_
 
-`$ git remote add origin https://github.com/username/repo-name.git`
+`$ git remote add origin https://github.com/`_username_`/`_repo-name_`.git`
 
 _Links your local repository with your remote repository_
 
@@ -76,7 +76,7 @@ _Syncs commits from your remote repository down to your local repository_
 
 _View unstaged changes made to all files in your git repository_
 
-`$ git remote add upstream https://github.com/original-owner/original-repo-name.git && git pull upstream master`
+`$ git remote add upstream https://github.com/`_original-owner_`/`_original-repo-name_`.git && git pull upstream master`
 
 _Syncs your forked repository to the original repository. For more information, see GitHub's [Configuring a remote for a fork](https://help.github.com/articles/configuring-a-remote-for-a-fork/)._
 
