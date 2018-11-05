@@ -4,7 +4,7 @@
 
 This guide provides additional resources to supplement the hands-on Intro to Git Workshop offered at the UNC Libraries: learn how to use Git, one of the most popular version control systems in the world. You don't have to be a developer to git started!
 
-The last workshop was taught on [Tuesday, March 13, 2018](https://calendar.lib.unc.edu/event/3998600) at Davis Library Research Hub.
+The last workshop was taught on [Wednesday, October 3, 2018](https://calendar.lib.unc.edu/event/4386938) at Davis Library Research Hub.
 
 #### Prerequisites:
 
@@ -14,7 +14,7 @@ The last workshop was taught on [Tuesday, March 13, 2018](https://calendar.lib.u
 
 #### Slides:
 
-* [Git Intro for Library Staff](https://drive.google.com/file/d/1TW65BNNS2nm4iRgGHtAeG8b6DRnqtq-9/view): This slide deck was presented during the 3/13/2018 git intro workshop for librarians and library staff only. Exercises are adapted from Library Carpentry's [Git Intro for Librarians](https://librarycarpentry.github.io/lc-git/) lesson.
+* [Git Intro](https://unc-libraries-data.github.io/Intro-to-Git/Intro%20to%20Git.pdf): This slide deck was presented during the 10/3/2018 git intro workshop. Exercises are adapted from Library Carpentry's [Git Intro for Librarians](https://librarycarpentry.github.io/lc-git/) lesson.
 
 ## Basic Git Commands Cheatsheet
 
